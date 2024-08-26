@@ -1,0 +1,25 @@
+.custom-bg-color{
+    background-color: #fceae8;
+}
+.custom-text-color{
+    color: #FF136F;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 9px 25px;
+}
+.bg-watch{
+    background-color: orange;
+    color: white;
+}
+.bg-bag{
+    background-color: rgb(231, 49, 231);
+    color: white;
+}
+.bg-shoes{
+    background-color: blue;
+    color: white;
+}
